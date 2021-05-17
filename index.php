@@ -126,7 +126,7 @@
         <div class="collapse navbar-collapse justify-content-end" id="navbarRyan">
           <ul class="navbar-nav">
             <li><a class="nav-link active" href="#home">Home</a></li>
-            <li><a class="nav-link" href="#aboutus">About Me</a></li>
+            <li><a class="nav-link" href="#aboutus">Know me more!</a></li>
             <li><a class="nav-link" href="#services">My Services</a></li>
             <li><a class="nav-link" href="#portfolio">My Work</a></li>
             <li><a class="nav-link" href="#timeline-vertical">Work Timeline</a></li>
